@@ -1,6 +1,6 @@
-# Factorial Bot
+# Factorial HR Bot
 
-Este proyecto es un bot automatizado para gestionar turnos en la plataforma Factorial. El bot puede iniciar, pausar, reanudar y finalizar turnos automáticamente.
+Este proyecto es un bot automatizado para gestionar turnos en la plataforma Factorial HR. El bot puede iniciar, pausar, reanudar y finalizar turnos automáticamente.
 
 ## Requisitos
 
@@ -15,7 +15,7 @@ Este proyecto es un bot automatizado para gestionar turnos en la plataforma Fact
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/Alexandru019/factorial-bot.git
+   git clone https://github.com/Alexandru019/factorial-hr-bot.git
    cd factorial-bot
    ```
 
