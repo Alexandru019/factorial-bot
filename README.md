@@ -1,6 +1,6 @@
 # Factorial HR Bot
 
-Este proyecto es un bot automatizado para gestionar turnos en la plataforma Factorial HR. El bot puede iniciar, pausar, reanudar y finalizar turnos automáticamente.
+Factorial HR Bot es una herramienta automatizada diseñada para interactuar con la plataforma Factorial HR. Este bot facilita tareas rutinarias como el registro de horas de trabajo, gestión de ausencias y otras funciones relacionadas con recursos humanos.
 
 ## Requisitos
 
