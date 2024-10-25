@@ -1,6 +1,6 @@
 # Factorial HR Bot
 
-Factorial HR Bot es una herramienta automatizada diseñada para interactuar con la plataforma Factorial HR. Este bot facilita tareas rutinarias como el registro de horas de trabajo, gestión de ausencias y otras funciones relacionadas con recursos humanos.
+Factorial HR Bot es una herramienta automatizada diseñada para interactuar con la plataforma Factorial HR. Este bot facilita la tarea rutinaria de registro de horas de trabajo.
 
 ## Requisitos
 
