@@ -16,7 +16,7 @@ Este proyecto es un bot automatizado para gestionar turnos en la plataforma Fact
 
    ```bash
    git clone https://github.com/Alexandru019/factorial-hr-bot.git
-   cd factorial-bot
+   cd factorial-hr-bot
    ```
 
 2. **Instala las dependencias:**
