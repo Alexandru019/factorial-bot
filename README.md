@@ -73,7 +73,7 @@ Para ejecutar el bot, simplemente haz doble clic en el archivo `ejecutar_bot.bat
 ## Notas
 
 - Este bot actualmente solo está preparado para navegadores basados en Chromium y no es compatible con Firefox.
-- Asegúrate de que el archivo `.env.local` no se suba al repositorio. Está incluido en el archivo `.gitignore` por defecto.
+- Asegúrate de que el archivo `.env` no se suba al repositorio. Está incluido en el archivo `.gitignore` por defecto.
 
 
 ## Contribuciones
